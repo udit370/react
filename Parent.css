@@ -1,0 +1,150 @@
+.div1{
+    border-radius:3px;
+    border-style: solid;
+    display: flex;
+    margin-right: 700px;
+    border-width: 0px;
+   
+    
+}
+
+.first{
+   
+    font-size: 18px;
+    padding-top: 18px;
+    position: relative ;
+  
+}
+
+.Pic{
+    border-radius: 8px;
+    padding: 5px;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    
+}
+
+.btn{
+   
+    background-color: bisque;
+    color: orange;
+    border-style: none;
+    border-radius: 3px;
+    bottom: 25px;
+   position:relative ;
+   margin-top:80px ;
+    font-size: 11px;
+    right: 180px;
+    margin-right: 5px;
+    
+   
+
+}
+
+.btn2{
+   
+    background-color: rgb(79, 169, 238);
+    color: blue;
+    border-style: none;
+    border-radius: 3px;
+    bottom: 25px;
+   position:relative ;
+   margin-top:80px ;
+    font-size: 11px;
+    right: 178px;
+    margin-right: 5px;
+
+}
+
+.btn3{
+   
+    background-color: rgb(255, 183, 164);
+    color: red;
+    border-style: none;
+    border-radius: 3px;
+    bottom: 25px;
+   position:relative ;
+   margin-top:80px ;
+    font-size: 11px;
+    right: 176px;
+
+}
+
+.div1-child{
+    border-style: solid;
+    border-right: 10px;
+    border-width: 0px;
+    margin-left: 850px;
+    margin-top: -98px;
+    display: flex;
+}
+
+.le {
+    
+margin-top: 42px;
+position: relative;
+margin-left: -120px;
+}
+.star{
+    
+    margin-top: 58px;
+    margin-left: -85px;
+    font-size: 10px;
+}
+.fst {
+    
+    color: red;
+    text-decoration:line-through;
+    margin-left:170px;
+    display: flex;
+}
+
+.paisa{
+    margin-top:35px;
+    display: flex;
+    margin-left:-91px;
+    
+}
+
+.div2-child{
+    border-style: solid;
+    border-right: 10px;
+    border-width: 1px;
+    margin-left: 1050px;
+    margin-top: -98px;
+    
+}
+.konsa{
+    margin-top: 49px;
+}
+.extra{
+
+    margin-top: 69px;
+    margin-left:-69px;
+    font-size: 10px;
+    
+    }
+
+    .cart{
+        
+        margin-bottom: 95px;
+        margin-top: 29px;
+        margin-left: 150px;
+    }
+
+
+    .offer{
+        
+        position:absolute;
+        margin: 15px;
+        margin-top: 60px;
+        margin-left: 457px;
+    }
+
+    .bttn{
+
+        position: absolute;
+        left: 270px;
+    }
+  
